@@ -1,0 +1,33 @@
+[
+    {
+        "add_num": 0,
+        "barr_len": 0,
+        "eggs_len": 1,
+        "game_time": 0,
+        "moveFlag": 2,
+        "new_barr": 0,
+        "play_time": 1,
+        "snake_len": 5,
+        "start_game": 0,
+        "stop_game": 0
+    },
+    {
+        "snake_0": 5600260,
+        "snake_1": 5600280,
+        "snake_2": 5600300,
+        "snake_3": 5600320,
+        "snake_4": 5600340
+    },
+    {
+        "eggs_0": 6000600
+    },
+    {
+    }
+]
+ "barr_159": 7800780,
+        "barr_160": 6400500,
+        "barr_161": 7000400,
+        "barr_162": 7200480,
+        "barr_163": 6400440
+    }
+]

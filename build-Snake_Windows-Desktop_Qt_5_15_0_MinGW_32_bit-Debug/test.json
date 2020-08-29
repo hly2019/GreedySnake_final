@@ -1,0 +1,25 @@
+[
+    {
+        "add_num": 0,
+        "barr_len": 162,
+        "eggs_len": 1,
+        "game_time": 0,
+        "moveFlag": 2,
+        "new_barr": 2,
+        "play_time": 1,
+        "snake_len": 2,
+        "start_game": 0,
+        "stop_game": 0
+    },
+    {
+        "snake_0": 3800220,
+        "snake_1": 3800240
+    },
+    {
+        "eggs_0": 7400740
+    },
+    {
+        "barr_160": 6200320,
+        "barr_161": 6400460
+    }
+]

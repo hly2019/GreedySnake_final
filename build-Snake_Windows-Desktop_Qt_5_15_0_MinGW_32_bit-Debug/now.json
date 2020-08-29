@@ -1,0 +1,35 @@
+[
+    {
+        "add_num": 0,
+        "barr_len": 160,
+        "eggs_len": 1,
+        "end_game": 0,
+        "game_time": 0,
+        "moveFlag": 0,
+        "new_barr": 2,
+        "play_time": 0,
+        "snake_len": 11,
+        "start_game": 0,
+        "stop_game": 0
+    },
+    {
+        "snake_0": 2400360,
+        "snake_1": 2600360,
+        "snake_10": 4200380,
+        "snake_2": 2800360,
+        "snake_3": 3000360,
+        "snake_4": 3200360,
+        "snake_5": 3400360,
+        "snake_6": 3600360,
+        "snake_7": 3800360,
+        "snake_8": 4000360,
+        "snake_9": 4200360
+    },
+    {
+        "eggs_0": 1600160
+    },
+    {
+        "barr_158": 7800820,
+        "barr_159": 7800640
+    }
+]
